@@ -1,9 +1,14 @@
 # LeadSender
 
-- Rebranding ID: 67b061ba81bc2f828b213ed4
-- User ID: 646def01d2133862b1afd595
-- App name: LeadSender
-- Product name: Button Sender
+LeadSender by LeadSender.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/bee0a5d3-8ddb-4075-a09f-01471fa6013d.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/bee0a5d3-8ddb-4075-a09f-01471fa6013d.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/67b061ba81bc2f828b213ed4/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **LeadSender** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/67b061ba81bc2f828b213ed4/releases/latest) and reinstall.
